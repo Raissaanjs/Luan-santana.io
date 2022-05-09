@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+
+
+body{
+    background-color:#7a7575
+
+}
+
+.container{
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container .texto{
+    width: 150%;
+    margin-left: 10px;
+    font-size: 33px;
+}
+
+.texto{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Oleo Script', cursive;
+}
+
+.biografia{
+    text-align: center;
+    font-size:169px;
+    font-family: 'Oleo Script', cursive;
+
+}
+
+.autor{
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    margin-left: 517px;
+
+}
+
+   
